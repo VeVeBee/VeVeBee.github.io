@@ -1,4 +1,4 @@
-nav {
+ul {
     top: 0px;
     position:fixed;
     padding: 0px;
@@ -22,7 +22,7 @@ img.ViviClass {
     border-radius: 100%;
     animation: headshot 4s;
   }
-a.ViviClassNav {
+li.ViviClassNav {
     float: right;
     font-family:  Arial, Helvetica, sans-serif;
     color: black;
@@ -97,7 +97,7 @@ p.ViviClassBody{
 
  }
  .introbox{
-    animation: diss 8s;
+    animation: diss 5s;
     position: relative;
     z-index: 1;
     width: 100%;
